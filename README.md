@@ -1,2 +1,2 @@
 # CompSciClubPython-Manateeman
-Yes
+Pyhton - A species of large constrictor snake (I think?).
