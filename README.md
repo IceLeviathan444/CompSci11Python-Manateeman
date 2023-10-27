@@ -1,2 +1,2 @@
-# CompSci11Python-Manateeman
+# CompSciClubPython-Manateeman
 Yes
